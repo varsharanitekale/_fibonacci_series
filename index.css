@@ -1,0 +1,15 @@
+body{
+    font-size:40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+h4{
+    background-color: brown;
+    color:white;
+    text-align: center;
+    display:block;
+    
+}
